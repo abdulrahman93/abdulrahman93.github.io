@@ -1,3 +1,3 @@
 # abdulrahman93.github.io
 
-A start for personal blog
+A start for personal blog.
